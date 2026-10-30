@@ -9,6 +9,9 @@ from the hours studied, using Linear Regression.
 - Takes an exam name plus hours as one total (`10`) or several days (`4 5 6`)
 - Plots the regression line and your predicted exams with Matplotlib
 
+## Screenshot
+![Graph](graph.png)
+
 ## How to run
 pip install -r requirements.txt
 python score_predictor.py
